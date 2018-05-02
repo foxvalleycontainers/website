@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+    <msapplication>
+        <tile>
+            <square150x150logo src="http://foxvalleycontainers.com/icons/mstile-150x150.png?v=3eKrWXO60q"/>
+            <square310x310logo src="http://foxvalleycontainers.com/icons/mstile-310x310.png?v=3eKrWXO60q"/>
+            <TileColor>#ad1818</TileColor>
+        </tile>
+    </msapplication>
+</browserconfig>
